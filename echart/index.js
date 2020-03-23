@@ -103,6 +103,7 @@ var listSettings = {
     colHeaders:['语言名称','排名','升或降','变化幅度'],
     autoColumnSize:true,
     colWidths:150,
+    className:'htCenter htMiddle',
     manualRowMove: true,  //是否开启手动移动行
     manualColumnMove: true,  //是否开启手动移动列
 }
